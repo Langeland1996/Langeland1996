@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h2> Hi there 👋 </h2>
+  <p> Hi there 👋 </p>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -7,7 +7,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 - :telescope: I’m for hire as a Software Engineer.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrik-langeland-07ab7124a/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrik-langeland-07ab7124a/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
