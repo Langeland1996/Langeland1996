@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
-- :raising_hand_man: I’m for hire as a Software Engineer.
+- :raising_hand_man: I’m for hire as a Software developer.
 
 - :scroll: Bachelor's degree in programming
 
