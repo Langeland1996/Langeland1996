@@ -5,7 +5,11 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
-- :telescope: I’m for hire as a Software Engineer.
+- :raising_hand_man: I’m for hire as a Software Engineer.
+
+- :scroll: Bachelor's degree in programming
+
+- :file_cabinet: Both my exam and personal projects are under "organizations" in the bottom-left corner.
 
 - :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrik-langeland-07ab7124a/)
 
