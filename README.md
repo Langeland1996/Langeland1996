@@ -33,6 +33,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 
+https://github-readme-streak-stats.herokuapp.com/?user=Langeland1996
+
+
 <!--
 **Langeland1996/Langeland1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
