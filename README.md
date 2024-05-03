@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <p> Hi there 👋 </p>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 - :raising_hand_man: I’m for hire as a Software developer.
